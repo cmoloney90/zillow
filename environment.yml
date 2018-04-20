@@ -1,0 +1,8 @@
+name: zillow
+
+dependencies:
+        - python = 3
+        - numpy
+        - scipy
+        - pandas
+        - scikit-learn
